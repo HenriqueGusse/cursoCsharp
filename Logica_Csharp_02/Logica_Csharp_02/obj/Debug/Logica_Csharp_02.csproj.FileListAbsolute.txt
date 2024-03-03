@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\Logica_Csharp_02\Logica_Csharp_02\bin\Debug\Logica_Csharp_02.exe.config
+C:\Users\Usuario\source\repos\Logica_Csharp_02\Logica_Csharp_02\bin\Debug\Logica_Csharp_02.exe
+C:\Users\Usuario\source\repos\Logica_Csharp_02\Logica_Csharp_02\bin\Debug\Logica_Csharp_02.pdb
+C:\Users\Usuario\source\repos\Logica_Csharp_02\Logica_Csharp_02\obj\Debug\Logica_Csharp_02.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Logica_Csharp_02\Logica_Csharp_02\obj\Debug\Logica_Csharp_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\Logica_Csharp_02\Logica_Csharp_02\obj\Debug\Logica_Csharp_02.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Logica_Csharp_02\Logica_Csharp_02\obj\Debug\Logica_Csharp_02.exe
+C:\Users\Usuario\source\repos\Logica_Csharp_02\Logica_Csharp_02\obj\Debug\Logica_Csharp_02.pdb
