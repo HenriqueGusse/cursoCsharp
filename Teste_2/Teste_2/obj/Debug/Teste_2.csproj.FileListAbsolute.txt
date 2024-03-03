@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\Teste_2\Teste_2\bin\Debug\Teste_2.exe.config
+C:\Users\Usuario\source\repos\Teste_2\Teste_2\bin\Debug\Teste_2.exe
+C:\Users\Usuario\source\repos\Teste_2\Teste_2\bin\Debug\Teste_2.pdb
+C:\Users\Usuario\source\repos\Teste_2\Teste_2\obj\Debug\Teste_2.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Teste_2\Teste_2\obj\Debug\Teste_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\Teste_2\Teste_2\obj\Debug\Teste_2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Teste_2\Teste_2\obj\Debug\Teste_2.exe
+C:\Users\Usuario\source\repos\Teste_2\Teste_2\obj\Debug\Teste_2.pdb
